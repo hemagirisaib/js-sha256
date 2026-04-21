@@ -110,4 +110,4 @@ The project is released under the [MIT license](https://opensource.org/license/m
 
 ## Contact
 The project's website is located at https://github.com/emn178/js-sha256  
-Author: Chen, Yi-Cyuan (emn178@gmail.com)
+Author: Chen, Yi-Cyuan (emn178@gmail.com)..
